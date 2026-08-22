@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://news-dyxb5i.bobatoto7eur.lat/sitemap.xml
